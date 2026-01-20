@@ -1,9 +1,10 @@
 ## Hi there 👋
+My name is Michelle Jargalan and I'm a second year student at the University of Virginia majoring in Data Science and Applied Statistics.
+
 
 <!--
 **MJ10101010/MJ10101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Michelle Jargalan and I'm a second year student at the University of Virginia majoring in Data Science and Applied Statistics.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
